@@ -33,26 +33,6 @@ You will expand and enhance this log management system by learning new tools, ad
 
 ---
 
-### Lab Environment
-
-To set up your lab environment with the necessary files, complete the following steps.
-
-- Log into your local virtual machine. Use the following credentials:
-
-  - Username: `sysadmin`
-  - Password: `cybersecurity`
-
-- Open the terminal within your Ubuntu VM by pressing Ctrl+Alt+T for Windows users or Ctrl+Options+T for Mac users.
-
-  - Alternatively, press Windows+A (Command+A for Mac users),  type "Terminal" in the search bar, and select the terminal icon (not the Xfce Terminal icon).
-
-- Create a directory called `Projects` in your `/home/sysadmin/` directory.
-
-- Download the following file (you can either slack it to yourself or use the Firefox browser in your Ubuntu machine), and move it to your `~/Projects` directory before you get started:
-
-  - [TarDocs.tar](https://drive.google.com/file/d/1-4m1mcHHZr2GmRg6jeGPPkPbljlvV2aD/view?usp=sharing)
-
----
 
 ### Instructions
 
